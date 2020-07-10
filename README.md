@@ -39,15 +39,15 @@
 
 ## 部分截图
 
-![](https://github.com/seefly20/public/tree/master/image/login.png)
+![](https://github.com/seefly20/public/blob/master/image/login.png)
 
-![](https://github.com/seefly20/public/tree/master/image/homepage.png)
+![](https://github.com/seefly20/public/blob/master/image/homepage.png)
 
-![](https://github.com/seefly20/public/tree/master/image/in.png)
+![](https://github.com/seefly20/public/blob/master/image/in.png)
 
-![](https://github.com/seefly20/public/tree/master/image/ware.png)
+![](https://github.com/seefly20/public/blob/master/image/ware.png)
 
-![](https://github.com/seefly20/public/tree/master/image/supplier.png)
+![](https://github.com/seefly20/public/blob/master/image/supplier.png)
 
-![](https://github.com/seefly20/public/tree/master/image/customer.png)
+![](https://github.com/seefly20/public/blob/master/image/customer.png)
 
